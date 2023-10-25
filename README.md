@@ -14,7 +14,9 @@ The code included in this repository is used to manage the products, categories,
 
 The Github repository can be found here: https://github.com/dscornaienchi/ecommerce-site
 
-A walkthrough video can be found here:
+Walkthrough videos can be found here
+* Part 1: Integrated Terminal Walkthrough: https://drive.google.com/file/d/1-SV_bvfaNKb2l4w-KgaeHEm7J-TyFwIr/view?usp=sharing 
+* Part 2: Insomnia Core Walkthrough: https://drive.google.com/file/d/1-WaURR4sWuRbYZieNxigpahS_-rU7EA4/view?usp=sharing 
 
 
 ## Credits
